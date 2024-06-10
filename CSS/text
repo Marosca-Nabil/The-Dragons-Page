@@ -1,0 +1,34 @@
+/* extra small screen */
+@media (min-width: 350px) {
+    .container {
+        width: 300px;
+    }
+}
+
+/* Small screen */
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+/* medium screen */
+@media(min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+
+}
+/* large Screen */
+@media (min-width: 1200px) {
+    .container {
+        width: 1140px;
+    }
+}
+
+/* Extra Large Screen */
+@media (min-width: 1400px) {
+    .container {
+        width: 1300px;
+    }
+}
